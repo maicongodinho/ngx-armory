@@ -17,3 +17,7 @@ Run `nx graph` to see a diagram of the dependencies of the projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+## What do I have to offer?
+
+- [Pipes](https://github.com/maicongodinho/ngx-armory/tree/main/libs/pipes)🔧 (_...only the best in the world_ 😉)
