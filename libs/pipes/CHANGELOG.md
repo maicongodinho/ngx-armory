@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.4] - 2023-05-23
+
+### Changed
+
+- chore(pipes): update `package.json` file ([bfe2520](https://github.com/maicongodinho/ngx-armory/commit/bfe25204f80a83c800600457b4a9e174e3bb1715))
+- docs(pipes): fix CHANGELOG links ([1a1b954](https://github.com/maicongodinho/ngx-armory/commit/1a1b954672437561c49fe1587a5bce6a2de40e84))
+
 ## [0.0.3] - 2023-05-23
 
 ### Changed
