@@ -5,7 +5,7 @@ import { Pipe, PipeTransform } from '@angular/core';
   standalone: true,
 })
 export class IsNullPipe implements PipeTransform {
-  transform(value: unknown): unknown {
+  transform(value: unknown): boolean {
     return value === null;
   }
 }
