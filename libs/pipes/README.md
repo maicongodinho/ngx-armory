@@ -12,6 +12,7 @@
 ## Table of contents
 
 - [Installation](#installation)
+- [Changelog](https://github.com/maicongodinho/ngx-armory/blob/main/libs/pipes/CHANGELOG.md)
 - [Conditional](#boolean)
   - [isNull](#isnull)
 
